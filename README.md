@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NickolasAbad/NickolasAbad/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/NickolasAbad/NickolasAbad/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
