@@ -13,10 +13,6 @@
 
 ###
 
-![Snake animation](https://github.com/NickolasAbad/NickolasAbad/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -40,13 +36,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/nwe83mjel6gxud19lh91jrnan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
